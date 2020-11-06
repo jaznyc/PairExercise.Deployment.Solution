@@ -5,6 +5,7 @@ export default ({ users }) => (
   <div className="user-list">
 
     <p className='lead'>Here's a list of {users.length} completely fictitious people:</p>
+    <p>This is a Test Line</p>
 
     <table className="table">
       <tbody>
